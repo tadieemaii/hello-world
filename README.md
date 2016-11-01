@@ -1,2 +1,2 @@
 # hello-world
-Just another Repository
+Im a graphic designer
